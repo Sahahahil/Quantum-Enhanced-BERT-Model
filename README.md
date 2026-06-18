@@ -4,7 +4,7 @@
 
 This repository contains the implementation framework, experimental design, and research documentation for the project **"Quantum-Enhanced BERT Model for Offensive Speech Detection and Analysis in Nepali Language"**. 
 
-Developed as a research initiative at the **Department of Computer Engineering, Khwopa College of Engineering (Bhaktapur)**, this project integrates the contextual representational power of transformer models (BERT) with **Variational Quantum Circuits (VQCs)** to dramatically improve text classification performance in low-resource language environments.
+This project integrates the contextual representational power of transformer models (BERT) with **Variational Quantum Circuits (VQCs)** to dramatically improve text classification performance in low-resource language environments.
 
 ---
 
@@ -68,40 +68,6 @@ v
 
 ---
 
-## Research Implementation Timeline
-
-The project execution is planned across a **20-week timeline**:
-
-| Phase | Task Description | Duration |
-| :--- | :--- | :--- |
-| **Phase 1** | Literature Review & Problem Definition | Weeks 1–2 |
-| **Phase 2** | Data Collection, Normalization & Annotation | Weeks 3–5 |
-| **Phase 3** | Baseline Transformer Model Fine-Tuning | Weeks 6–8 |
-| **Phase 4** | Variational Quantum Circuit (VQC) Integration | Weeks 9–12 |
-| **Phase 5** | Hybrid System Joint Training & Optimization | Weeks 13–15 |
-| **Phase 6** | Performance Evaluation & Ablation Analysis | Weeks 16–17 |
-| **Phase 7** | Documentation, Reporting & Paper Drafting | Weeks 18–19 |
-| **Phase 8** | Project Review & Final Submission | Week 20 |
-
----
-
-## Budget & Resource Allocation
-
-The total estimated operational budget for the project is **NPR 50,000**, distributed as follows:
-
-| Category | Description | Amount (NPR) |
-| :--- | :--- | :--- |
-| **Data Logistics** | Social media scraping, manual labeling, and linguistic verification. | रू 8,000 |
-| **Compute Infrastructure** | Cloud-based GPU runtimes (AWS / Google Colab Pro) for BERT base models. | रू 15,000 |
-| **Quantum Software Simulation**| Commercial frameworks and local HPC execution for Qiskit/PennyLane. | रू 6,000 |
-| **Research Assistance** | Compensations for text annotators and regional language experts. | रू 8,000 |
-| **Evaluation Metrics** | Multi-variant ablation benchmarking and systematic cross-testing. | रू 5,000 |
-| **Documentation & Reporting**| Physical asset printing, slide compilation, and publishing costs. | रू 4,000 |
-| **Contingency Fund** | Unforeseen computational run extensions or pipeline adjustments (10%). | रू 4,000 |
-| **Total** | | **NPR 50,000** |
-
----
-
 ## Limitations & Technical Challenges
 
 * **Hardware Noise:** Modern Quantum simulators and early Noisy Intermediate-Scale Quantum (NISQ) real hardware are prone to qubit decoherence, readout errors, and strict circuit depth boundaries.
@@ -109,15 +75,6 @@ The total estimated operational budget for the project is **NPR 50,000**, distri
 
 ---
 
-## Project Investigators
-
-Developed by the research cohort at the **Department of Computer Engineering, Khwopa College of Engineering, Bhaktapur, Nepal**:
-
-* **Naresh Khatri**
-* **Anish Baral**
-* **Uddav Rajbhandari**
-
----
 
 ## Ethical Considerations & Regulations
 
