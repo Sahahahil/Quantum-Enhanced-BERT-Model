@@ -1,0 +1,20 @@
+# Core scientific stack
+pandas>=2.2.0
+numpy>=2.0.0
+matplotlib>=3.9.0
+seaborn>=0.13.2
+
+# Deep learning / transformer stack
+torch>=2.3.0
+transformers>=4.44.0
+
+# Quantum simulation stack (CPU‑only, optional GPU back‑ends)
+pennylane>=0.34.0
+qiskit>=1.1.0
+
+# Notebook / development utilities
+jupyter>=1.0.0
+nbconvert>=7.16.4
+
+# Optional utilities (used in scripts)
+# tqdm>=4.66.5  # Uncomment if progress bars are added later
