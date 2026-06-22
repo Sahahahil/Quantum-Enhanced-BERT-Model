@@ -1,0 +1,3 @@
+For comparing the result of the given dataset which consits of nepali + English writing , we decided to change the entire dataset into purely dev nagiri nepali just to check the performance.
+
+Since using chatbot apt on the dataset was quite expensive we decided to manually insert the data in chatbots keeping the intigrity of data by only translating english words used in the dataset to Nepali.
