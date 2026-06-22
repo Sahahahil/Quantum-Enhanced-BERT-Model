@@ -1,0 +1,25 @@
+NON-COMMERCIAL purposes only. For commercial usages, permissions must be taken from the authors and the relevant parties. Please contact:
+Nobal Niraula (nb.niraula@gmail.com) for any inquiries regarding this work and license.
+
+
+NOTE:
+Unless required by applicable law or agreed to in writing, software and data distributed here is on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
+CITATIONS: 
+If you use this data set, please cite the following publications:
+
+@inproceedings{niraula2021offensive,
+  title={Offensive Language Detection in Nepali Social Media},
+  author={Niraula, Nobal B and Dulal, Saurab and Koirala, Diwa},
+  booktitle={Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021)},
+  pages={67--75},
+  year={2021}
+}
+
+@article{niraula2015linguistic,
+  title={Linguistic taboos and euphemisms in nepali},
+  author={Niraula, Nobal B and Dulal, Saurab and Koirala, Diwa},
+  journal={Transactions on Asian and Low-Resource Language Information Processing},
+  year={2015},
+  publisher={ACM New York, NY}
+}
