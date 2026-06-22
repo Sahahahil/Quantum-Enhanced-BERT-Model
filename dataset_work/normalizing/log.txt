@@ -1,0 +1,1 @@
+We also implemented the method used in initial classical approach for Nepali hatespeech classification which inclided standardizing ikar , ukar to the same character
