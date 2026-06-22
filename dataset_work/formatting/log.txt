@@ -1,0 +1,1 @@
+Formatting was necessary to convert the json data to csv for making the translating process easy and translating the csv data back to json.
