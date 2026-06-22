@@ -1,0 +1,142 @@
+==========================================================================
+       📊 COMPREHENSIVE PIPELINE DATASET STATISTICS REPORT                
+==========================================================================
+
+--- [ PHASE 1: RAW TRAINING SET ] (Total Records: 5798) ---
+
+📍 Target Label Distribution Balance:
+   • Binary Classes:
+     - NOFF: 3562 (61.43%)
+     - OFF: 2236 (38.57%)
+   • Multiclass Subcategories:
+     - NO: 3562 (61.43%)
+     - OO: 1950 (33.63%)
+     - OR: 218 (3.76%)
+     - OS: 68 (1.17%)
+
+📏 Sequence Length Statistics:
+   • Word Distribution  -> Mean: 17.28 | Median: 13.0 | Max: 172 | Std: 15.25
+   • Char Distribution  -> Mean: 97.44 | Median: 71.0 | Max: 959 | Std: 87.23
+
+🔤 Lexical Features & Vocabulary Volume:
+   • Total Runtime Tokens : 100192
+   • Unique Vocabulary Size: 31546
+   • Lexical Diversity TTR : 0.3149
+   • Emojis Density Profile: 3.31% of comments contain emojis
+--------------------------------------------------------------------------
+
+--- [ PHASE 1: RAW TESTING SET ] (Total Records: 1450) ---
+
+📍 Target Label Distribution Balance:
+   • Binary Classes:
+     - NOFF: 896 (61.79%)
+     - OFF: 554 (38.21%)
+   • Multiclass Subcategories:
+     - NO: 896 (61.79%)
+     - OO: 486 (33.52%)
+     - OR: 49 (3.38%)
+     - OS: 19 (1.31%)
+
+📏 Sequence Length Statistics:
+   • Word Distribution  -> Mean: 17.04 | Median: 12.0 | Max: 231 | Std: 16.06
+   • Char Distribution  -> Mean: 95.57 | Median: 68.0 | Max: 1413 | Std: 91.48
+
+🔤 Lexical Features & Vocabulary Volume:
+   • Total Runtime Tokens : 24714
+   • Unique Vocabulary Size: 10939
+   • Lexical Diversity TTR : 0.4426
+   • Emojis Density Profile: 3.38% of comments contain emojis
+--------------------------------------------------------------------------
+
+--- [ PHASE 2: NORMALIZED TRAINING SET ] (Total Records: 5798) ---
+
+📍 Target Label Distribution Balance:
+   • Binary Classes:
+     - NOFF: 3562 (61.43%)
+     - OFF: 2236 (38.57%)
+   • Multiclass Subcategories:
+     - NO: 3562 (61.43%)
+     - OO: 1950 (33.63%)
+     - OR: 218 (3.76%)
+     - OS: 68 (1.17%)
+
+📏 Sequence Length Statistics:
+   • Word Distribution  -> Mean: 17.01 | Median: 13.0 | Max: 172 | Std: 14.86
+   • Char Distribution  -> Mean: 95.14 | Median: 69.0 | Max: 959 | Std: 85.44
+
+🔤 Lexical Features & Vocabulary Volume:
+   • Total Runtime Tokens : 98614
+   • Unique Vocabulary Size: 28003
+   • Lexical Diversity TTR : 0.2840
+   • Emojis Density Profile: 3.73% of comments contain emojis
+--------------------------------------------------------------------------
+
+--- [ PHASE 2: NORMALIZED TESTING SET ] (Total Records: 1450) ---
+
+📍 Target Label Distribution Balance:
+   • Binary Classes:
+     - NOFF: 895 (61.72%)
+     - OFF: 555 (38.28%)
+   • Multiclass Subcategories:
+     - NO: 895 (61.72%)
+     - OO: 487 (33.59%)
+     - OR: 49 (3.38%)
+     - OS: 19 (1.31%)
+
+📏 Sequence Length Statistics:
+   • Word Distribution  -> Mean: 15.79 | Median: 11.0 | Max: 214 | Std: 14.55
+   • Char Distribution  -> Mean: 92.18 | Median: 67.0 | Max: 1423 | Std: 89.40
+
+🔤 Lexical Features & Vocabulary Volume:
+   • Total Runtime Tokens : 22899
+   • Unique Vocabulary Size: 8635
+   • Lexical Diversity TTR : 0.3771
+   • Emojis Density Profile: 7.03% of comments contain emojis
+--------------------------------------------------------------------------
+
+--- [ PHASE 3: EXPANDED TRAINING SET ] (Total Records: 20000) ---
+
+📍 Target Label Distribution Balance:
+   • Binary Classes:
+     - OFF: 15000 (75.00%)
+     - NOFF: 5000 (25.00%)
+   • Multiclass Subcategories:
+     - NO: 5000 (25.00%)
+     - OS: 5000 (25.00%)
+     - OO: 5000 (25.00%)
+     - OR: 5000 (25.00%)
+
+📏 Sequence Length Statistics:
+   • Word Distribution  -> Mean: 6.67 | Median: 6.0 | Max: 11 | Std: 2.07
+   • Char Distribution  -> Mean: 32.63 | Median: 30.0 | Max: 53 | Std: 9.57
+
+🔤 Lexical Features & Vocabulary Volume:
+   • Total Runtime Tokens : 133463
+   • Unique Vocabulary Size: 59
+   • Lexical Diversity TTR : 0.0004
+   • Emojis Density Profile: 12.37% of comments contain emojis
+--------------------------------------------------------------------------
+
+--- [ PHASE 3: EXPANDED TESTING SET ] (Total Records: 20000) ---
+
+📍 Target Label Distribution Balance:
+   • Binary Classes:
+     - OFF: 15000 (75.00%)
+     - NOFF: 5000 (25.00%)
+   • Multiclass Subcategories:
+     - OS: 5000 (25.00%)
+     - OO: 5000 (25.00%)
+     - OR: 5000 (25.00%)
+     - NO: 5000 (25.00%)
+
+📏 Sequence Length Statistics:
+   • Word Distribution  -> Mean: 6.65 | Median: 6.0 | Max: 11 | Std: 2.07
+   • Char Distribution  -> Mean: 32.46 | Median: 30.0 | Max: 53 | Std: 9.52
+
+🔤 Lexical Features & Vocabulary Volume:
+   • Total Runtime Tokens : 132992
+   • Unique Vocabulary Size: 59
+   • Lexical Diversity TTR : 0.0004
+   • Emojis Density Profile: 12.43% of comments contain emojis
+--------------------------------------------------------------------------
+
