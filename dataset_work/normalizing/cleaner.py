@@ -29,7 +29,7 @@ def normalize_nepali(text):
 
 # Load dataset
 with open(
-    "/home/sahild/Quantum/May-2026/Series/13-june-2026/dataset/dataset/expand_test.json",
+    "/home/sahild/Quantum/ForGithub/Quantum-Enhanced-BERT-Model/dataset_work/original_dataset/test (1).json",
     "r",
     encoding="utf-8",
 ) as f: 
@@ -42,7 +42,7 @@ for item in data:
 
 # Save normalized dataset
 with open(
-    "/home/sahild/Quantum/May-2026/Series/13-june-2026/dataset/dataset/expand_test_normalized.json",
+    "/home/sahild/Quantum/ForGithub/Quantum-Enhanced-BERT-Model/dataset_work/normalizing/test_normalized.json",
     "w",
     encoding="utf-8",
 ) as f:
